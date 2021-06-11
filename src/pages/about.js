@@ -12,9 +12,9 @@ const about = ({ data: {
       <main className="page">
         <section className="about-page">
           <article>
-            <h2>I'm baby coloring book poke taxidermy</h2>
-            <p>Taxidermy forage glossier letterpress heirloom before they sold out you probably haven't heard of them banh mi biodiesel chia.</p>
-            <p>Taiyaki tumblr flexitarian jean shorts brunch, aesthetic salvia retro.</p>
+            <h2>Welcome to Soham's Recipes</h2>
+            <p>A collection of my collection of healthy and delicious recipes!</p>
+            <p>For inquiries or submitting your own recipes; Hit the contact button and shoot us a message!</p>
             <Link to="/contact" className="btn">
               contact
       </Link>

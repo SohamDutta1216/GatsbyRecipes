@@ -17,8 +17,8 @@ export default function Home() {
           ></StaticImage>
           <div className="hero-container">
             <div className="hero-text">
-              <h1>simply recipes</h1>
-              <h4>no fluff, just recipes</h4>
+              <h1>Soham's Recipes</h1>
+              <h4>Home of the most delicious recipes in the galaxy</h4>
             </div>
           </div>
         </header>
